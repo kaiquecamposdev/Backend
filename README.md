@@ -1,8 +1,10 @@
 # API Video Load 🎬
 
+## 📍 Overview
+
 This project is a video AI completion application that empowers users to upload videos and generate AI-generated content based on the selected video. It offers functionalities such as selecting prompts, adjusting temperature, and handling API communication, streamlining the video content creation process. The core value proposition lies in augmenting video content creation by leveraging AI capabilities, saving users time and effort in generating engaging and creative content.
 
-## Technologies Used 💻
+## 💻 Technologies Used 
 
 - **Node.js:**  JavaScript runtime environment for server-side development.
 - **Fastify:**  Fast and lightweight web framework for Node.js.
@@ -12,7 +14,7 @@ This project is a video AI completion application that empowers users to upload 
 - **Ffmpeg:**  Command-line tool for video and audio processing.
 - **OpenAI API:**  AI model for generating text and code.
 
-## Installation 🚀
+## 🚀 Installation 
 
 **1. Clone the api-videoload:**
    ```bash
@@ -122,9 +124,9 @@ This project is a video AI completion application that empowers users to upload 
   Description: Generates a transcription for a video. The videoId must be provided in the URL, and the request body can optionally include a prompt.
   ```
 
-## Contributing 🤝
+## 🤝 Contributing 
 Contributions to the project are welcome! Feel free to open issues or submit pull requests.
 
-## License 📝
+## 📝 License
 This project is licensed under the [MIT License](./LICENSE).
 
